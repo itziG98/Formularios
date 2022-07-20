@@ -1,0 +1,44 @@
+body{background-image:url("imagen/fondo.jpg");}
+
+h1{
+
+	padding-top: 1em;
+	font-family: verdana;
+	text-align: center;
+	font-family: 'Modern No. 20', sans-serif;
+	font-size: 2em;
+	font-weight: normal;
+	color:indigo;
+	font-weight: bold;
+
+}
+
+section{
+	margin-left: 350px;
+}
+
+form{
+
+	width: 600px;
+	height:600px;
+	float:left;
+	background-image: url("imagen/pantalla.jpg");
+	margin-top: 5px;
+	padding: 5px;
+    text-align: center;
+
+}
+label{
+	color:crimson;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 1.4rem;
+	font-weight: bold;
+}
+
+
+
+.error{
+    color:deeppink;
+    font-size: 10px;
+    font-family: arial;
+  }
